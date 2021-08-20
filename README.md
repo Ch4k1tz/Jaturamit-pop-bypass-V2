@@ -1,6 +1,8 @@
 # Jaturamit-pop-bypass V2
 Jaturamit-pop-bypass-V2 (ของรุ่นน้องในเฟส Fork from my little brother).
 
+![Image of POPCAT](https://c.tenor.com/BT8I5b35oMQAAAAC/oatmeal-meme.gif)
+
 NOTE TO DEV: ยังสามารถ get token ได้ ก่อนที่จะนํามา flood ถึงจะใช้ cloudflare ช่วยแต่ ถ้า เซ็ทไม่ดีมันก็๋จะเป็นแบบนี้แหละ.
 
 ถ้าอยากได้ความช่วยเหลือ.
